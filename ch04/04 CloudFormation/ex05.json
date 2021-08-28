@@ -58,7 +58,7 @@
 								"mode":"000644",
 								"owner":"apache",
 								"group":"apache"
-							},
+							}
 						},
 						"services": {
 							"sysvinit": {
