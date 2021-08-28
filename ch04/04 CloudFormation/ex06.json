@@ -52,7 +52,7 @@
 								"httpd": []
 					  		}
 						},
-						"source":{
+						"sources":{
 							"/var/www/html":"https://raw.githubusercontent.com/Forswdeveloper/aws_practice/raw/main/ch04/04%20CloudFormation/mysite.tar.gz"
 						},
 						"services": {
