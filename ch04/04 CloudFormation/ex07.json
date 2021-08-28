@@ -52,6 +52,9 @@
 								"httpd": []
 					  		}
 						},
+						"sources":{
+							"/var/www/html":"https://github.com/Forswdeveloper/mysite/tarball/main"
+						},
 						"services": {
 							"sysvinit": {
 								"httpd": {
