@@ -110,7 +110,8 @@
 						"Fn::Join": [ "", [
 							"#!/bin/bash -ex\n",
 
-
+							"# Security Update\n",
+							"yum -y --security update\n",
 
 							"# cfn-init update\n",
 							"yum install -y aws-cfn-bootstrap\n",
