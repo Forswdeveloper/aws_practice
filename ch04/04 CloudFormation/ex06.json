@@ -53,10 +53,7 @@
 					  		}
 						},
 						"source":{
-							"/var/www/html":"https://raw.githubusercontent.com/Forswdeveloper/aws_practice/raw/main/ch04/04%20CloudFormation/mysite.tar.gz",
-							"mode":"000644",
-							"owner":"apache",
-							"group":"apache"
+							"/var/www/html":"https://raw.githubusercontent.com/Forswdeveloper/aws_practice/raw/main/ch04/04%20CloudFormation/mysite.tar.gz"
 						},
 						"services": {
 							"sysvinit": {
